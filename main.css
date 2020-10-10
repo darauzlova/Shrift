@@ -1,0 +1,49 @@
+body{
+	background-color: #ffe4c4;
+}
+.fr{
+	background-color: #ffcf94;
+	width: 47%;
+	height: 700px;
+	padding-top: 15px;
+	
+}
+.ru{
+	background-color: #ffcf94;
+	width: 47%;
+	height: 700px;
+	position: absolute;
+	right: 10px;
+	top: 136px;
+}
+.zagolovok{
+	font-size: 40px;
+	text-align: center;
+}
+.stix1{
+	text-align: center;
+	width: 80%;
+	font-size: 20px;
+}
+.stix2{
+	text-align: left;
+	width: 60%;
+	font-size: 25px;
+}
+.stix3{
+	text-align: right;
+	font-size: 10px;
+	width: 100%;
+}
+.zag{
+	text-align: center;
+}
+.vres{
+	position: absolute;
+	right: 100px;
+	background-color: #ffa12e; 
+	width: 250px; margin-left: 0;
+    padding: 12px; font-family: Arial; font-size: 12pt;
+    font-weight: bold; border-style: solid; 
+    border-width: thin;
+    border-color: #000000;}
